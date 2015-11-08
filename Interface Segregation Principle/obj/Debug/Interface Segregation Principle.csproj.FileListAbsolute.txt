@@ -1,0 +1,6 @@
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Interface Segregation Principle\bin\Debug\Interface Segregation Principle.exe.config
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Interface Segregation Principle\bin\Debug\Interface Segregation Principle.exe
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Interface Segregation Principle\bin\Debug\Interface Segregation Principle.pdb
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Interface Segregation Principle\obj\Debug\Interface Segregation Principle.exe
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Interface Segregation Principle\obj\Debug\Interface Segregation Principle.pdb
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Interface Segregation Principle\obj\Debug\Interface Segregation Principle.csprojResolveAssemblyReference.cache

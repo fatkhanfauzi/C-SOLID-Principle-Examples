@@ -1,0 +1,6 @@
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojResolveAssemblyReference.cache
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb

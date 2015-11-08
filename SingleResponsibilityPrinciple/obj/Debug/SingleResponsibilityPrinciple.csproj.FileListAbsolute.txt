@@ -1,0 +1,6 @@
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe.config
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.pdb
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.csprojResolveAssemblyReference.cache
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.exe
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.pdb

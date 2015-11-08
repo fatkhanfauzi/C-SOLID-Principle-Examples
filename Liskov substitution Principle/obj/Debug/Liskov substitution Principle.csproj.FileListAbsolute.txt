@@ -1,0 +1,6 @@
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Liskov substitution Principle\bin\Debug\Liskov substitution Principle.exe.config
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Liskov substitution Principle\bin\Debug\Liskov substitution Principle.exe
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Liskov substitution Principle\bin\Debug\Liskov substitution Principle.pdb
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Liskov substitution Principle\obj\Debug\Liskov substitution Principle.csprojResolveAssemblyReference.cache
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Liskov substitution Principle\obj\Debug\Liskov substitution Principle.exe
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Liskov substitution Principle\obj\Debug\Liskov substitution Principle.pdb

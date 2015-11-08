@@ -1,0 +1,8 @@
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Dependency Inversion Principle\bin\Debug\Dependency Inversion Principle.exe.config
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Dependency Inversion Principle\bin\Debug\Dependency Inversion Principle.exe
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Dependency Inversion Principle\bin\Debug\Dependency Inversion Principle.pdb
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Dependency Inversion Principle\obj\Debug\Dependency Inversion Principle.exe
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Dependency Inversion Principle\obj\Debug\Dependency Inversion Principle.pdb
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Dependency Inversion Principle\obj\Debug\Dependency Inversion Principle.csprojResolveAssemblyReference.cache
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Dependency Inversion Principle\bin\Debug\Ninject.dll
+c:\users\superfauzi\documents\visual studio 2013\Projects\SolidPrinciple\Dependency Inversion Principle\bin\Debug\Ninject.xml
