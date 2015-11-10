@@ -10,28 +10,28 @@ namespace Interface_Segregation_Principle
     {
         static void Main(string[] args)
         {
-            ISoftwareEngineer programmer = new Programmer();
-            ISoftwareEngineer teamLead = new TeamLead();
+            IProgrammer programmer = new Programmer();
+            IProgrammer teamLead = new TeamLead();
 
 
-            Persistence<ISoftwareEngineer>.Save(programmer);
-            Persistence<ISoftwareEngineer>.Save(teamLead);
+            Persistence<IProgrammer>.Save(programmer);
+            Persistence<IProgrammer>.Save(teamLead);
 
             Console.Read();
         }
 
-        public interface ISoftwareEngineer
+        public interface IProgrammer
         {
             void WorkOnTask();
         }
 
-        public interface ITeamLead : ISoftwareEngineer
+        public interface ITeamLead
         {
             void AssignTask();
             void CreateSubTask();
         }
 
-        public class Programmer : ISoftwareEngineer
+        public class Programmer : IProgrammer
         {
             public void WorkOnTask()
             {
@@ -39,7 +39,7 @@ namespace Interface_Segregation_Principle
             }
         }
 
-        public class TeamLead : ITeamLead
+        public class TeamLead : ITeamLead, IProgrammer
         {
             public void WorkOnTask()
             {
